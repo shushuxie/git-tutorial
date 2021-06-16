@@ -3,3 +3,5 @@
 测试git命令，看看是否好用。
 
 hello word 的日志记录。
+
+--feature A 分支添加。
